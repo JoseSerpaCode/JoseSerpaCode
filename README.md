@@ -11,7 +11,7 @@
 
 - 👨‍💻 Desarrollador de Software | Estudiante de Ingeniería Electrónica.
 - 🎓 Técnico en Programación de Software (SENA).
-- 🎛️ Actualmente desarrollando SamplerApp (versión alpha disponible).
+- 🎛️ Actualmente desarrollando [SamplerApp](https://github.com/JoseSerpaCode/SamplerApp) (versión alpha disponible).
 - 🔍 Analizo nuevas tecnologías y descifro cómo se integran en proyectos reales.
 
 ## Tecnologías
