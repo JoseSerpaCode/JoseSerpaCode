@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola! Soy <a href="https://aristi.dev">José Serpa Medina</a> 👋</h1>
+<h1 align="center">Hola! Soy <a href="https://github.com/JoseSerpaCode">José Serpa Medina</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/GJHNXNN.png">
 
@@ -28,7 +28,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/JoseSerpaCode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseSerpaCode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseSerpaCode&layout=compact&langs_count=8&theme=algolia"/>
 </a>
