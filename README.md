@@ -10,10 +10,9 @@
 
 ## Sobre mi
 
-- 👨‍💻 Desarrollador de Software | Estudiante de Ingeniería Electrónica.
+- 👨‍💻 Desarrollador de Software Backend.
+- ⚡ Estudiante de Ingeniería Electrónica en la Universidad de Sucre.
 - 🎓 Técnico en Programación de Software (SENA).
-- 🎛️ Actualmente desarrollando [SamplerApp](https://github.com/JoseSerpaCode/SamplerApp) (versión alpha disponible).
-- 🔍 Analizo nuevas tecnologías y descifro cómo se integran en proyectos reales.
 
 ## Tecnologías
 
